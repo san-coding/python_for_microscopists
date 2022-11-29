@@ -1,16 +1,3 @@
-# https://youtu.be/F365vQ8EndQ
-"""
-Author: Sreenivas Bhattiprolu
-
-Multiclass semantic segmentation using U-Net with VGG, ResNet, and Inception 
-as backbones
-
-Segmentation models: https://github.com/qubvel/segmentation_models
-
-To annotate images and generate labels, you can use APEER (for free):
-www.apeer.com 
-"""
-
 import tensorflow as tf
 import segmentation_models as sm
 import glob
